@@ -1,0 +1,39 @@
+
+{
+    "objects": [
+        {
+            "class": "Solution.ObjectB",
+            "id": "1",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "z",
+                    "declaringclass": "Solution.ObjectB",
+                    "value": "false"
+                },
+                {
+                    "name": "other",
+                    "declaringclass": "Solution.ObjectB",
+                    "reference": "0"
+                }
+            ]
+        },
+        {
+            "class": "Solution.ObjectB",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "z",
+                    "declaringclass": "Solution.ObjectB",
+                    "value": "true"
+                },
+                {
+                    "name": "other",
+                    "declaringclass": "Solution.ObjectB",
+                    "reference": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+
+{
+    "objects": [
+        {
+            "class": "Solution.ObjectA",
+            "id": "3",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "x",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "1"
+                },
+                {
+                    "name": "y",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "2.0"
+                }
+            ]
+        },
+        {
+            "class": "[Ljava.lang.Object;",
+            "id": "2",
+            "type": "array",
+            "length": "5",
+            "entries": [
+                {
+                    "reference": "3"
+                },
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "null"
+                }
+            ]
+        },
+        {
+            "class": "java.util.ArrayList",
+            "id": "1",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "elementData",
+                    "declaringclass": "java.util.ArrayList",
+                    "reference": "2"
+                },
+                {
+                    "name": "size",
+                    "declaringclass": "java.util.ArrayList",
+                    "value": "1"
+                },
+                {
+                    "name": "modCount",
+                    "declaringclass": "java.util.AbstractList",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "class": "Solution.ObjectE",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "c",
+                    "declaringclass": "Solution.ObjectE",
+                    "reference": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+
+{
+    "objects": [
+        {
+            "class": "Solution.ObjectA",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "x",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "1"
+                },
+                {
+                    "name": "y",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "2.0"
+                }
+            ]
+        }
+    ]
+}

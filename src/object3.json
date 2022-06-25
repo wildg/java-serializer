@@ -1,0 +1,40 @@
+
+{
+    "objects": [
+        {
+            "class": "[I",
+            "id": "1",
+            "type": "array",
+            "length": "5",
+            "entries": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "3"
+                },
+                {
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "class": "Solution.ObjectC",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "a",
+                    "declaringclass": "Solution.ObjectC",
+                    "reference": "1"
+                }
+            ]
+        }
+    ]
+}

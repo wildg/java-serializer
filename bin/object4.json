@@ -1,0 +1,57 @@
+
+{
+    "objects": [
+        {
+            "class": "Solution.ObjectA",
+            "id": "2",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "x",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "1"
+                },
+                {
+                    "name": "y",
+                    "declaringclass": "Solution.ObjectA",
+                    "value": "2.0"
+                }
+            ]
+        },
+        {
+            "class": "[LSolution.ObjectA;",
+            "id": "1",
+            "type": "array",
+            "length": "5",
+            "entries": [
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "null"
+                },
+                {
+                    "reference": "2"
+                },
+                {
+                    "reference": "null"
+                }
+            ]
+        },
+        {
+            "class": "Solution.ObjectD",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "b",
+                    "declaringclass": "Solution.ObjectD",
+                    "reference": "1"
+                }
+            ]
+        }
+    ]
+}
